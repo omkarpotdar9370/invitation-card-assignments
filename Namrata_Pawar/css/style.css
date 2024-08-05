@@ -31,31 +31,31 @@
 .top-left-orange {
     width: 0mm;
     height: 0mm;
-    border-left: 30px solid transparent;
-    border-right: 30px solid transparent;
-    border-top: 46px solid #e68950;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 64px solid #e68950;
     border-top-left-radius: 68%;
-    border-top-right-radius: 30%;
+    border-top-right-radius: 48%;
     border-bottom-right-radius: 99%;
     transform: rotate(144deg);
     position: absolute;
-    top: 77px;
-    left: -7px;
+    top: 89px;
+    left: -2px;
 }
 
 .top-right-orange{
     width: 0mm;
     height: 0mm;
-    border-left: 30px solid transparent;
-    border-right: 30px solid transparent;
-    border-top: 45px solid #e68950;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 64px solid #e68950;
     border-top-left-radius: 192%;
     border-top-right-radius: 137%;
     border-bottom-right-radius: 446%;
     transform: rotate(221deg);
     position: absolute;
-    top: 84px;
-    left: 737px;
+    top: 93px;
+    left: 698px;
 }
 .middle-light-blue {
     width: 1443px;
@@ -66,117 +66,73 @@
     top: 115mm;
     left: -60mm;
 }
- .line1 {
+.line1 {
     position: absolute;
-    left: 9mm;
-    top: 40mm;
+    left: 5mm;
+    top: 152mm;
     width: 1.2mm;
-    height: 92mm;
+    height: 94mm;
     color: white;
-    background-color: #9e9b9ba5;
-    z-index: 0;
+    background-color: #d8a553a5;
 }
 .line2 {
     position: absolute;
-    left: 59mm;
-    top: -3mm;
-    width: 1.2mm;
-    height: 72mm;
-    color: white;
-    background-color: #9e9b9ba5;
-    transform: rotate(90deg);
-    z-index: 0;
-    border-radius: 27pt;
-}
-.line3 {
-    position: absolute;
-    left: 7mm;
-    top: 145mm;
-    width: 1.2mm;
-    height: 104mm;
-    color: white;
-    background-color: #9e9b9ba5;
-}
-.line4 {
-    position: absolute;
-    left: 7mm;
+    left: 5mm;
     top: 260mm;
     width: 1.2mm;
     height: 25mm;
     color: white;
-    background-color: #9e9b9ba5;
+    background-color: #d8a553a5;
     z-index: 0;
 }
-.line5{
+.line3{
     position: absolute;
-    left: 199mm;
-    top: 239mm;
+    left: 203mm;
+    top: 260mm;
     width: 1.2mm;
-    height: 44mm;
+    height: 25mm;
     color: white;
-    background-color: #9e9b9ba5;
-    z-index: 0;
-}
-
-.line6{
-    position: absolute;
-    left: 199mm;
-    top: 139mm;
-    width: 1.2mm;
-    height: 86mm;
-    color: white;
-    background-color: #9e9b9ba5;
+    background-color: #d8a553a5;
     z-index: 0;
 }
 
-.line7{
+.line4{
     position: absolute;
-    left: 199mm;
-    top: 40mm;
+    left: 203mm;
+    top: 152mm;
     width: 1.2mm;
-    height: 87mm;
+    height: 94mm;
     color: white;
-    background-color: #9e9b9ba5;
+    background-color: #d8a553a5;
     z-index: 0;
-}
-.line8 {
-    position: absolute;
-    left: 155mm;
-    top: -9mm;
-    width: 1.2mm;
-    height: 86mm;
-    color: white;
-    background-color: #9e9b9ba5;
-    transform: rotate(90deg);
-    z-index: 3;
-    border-radius: 27pt;
 }
 
 .rect1{
-    height: 180pt;
-    width: 72pt;
     position: absolute;
-    left: 24pt;
-    top: 91pt;
+    left: 96mm;
+    top: 14mm;
+    width: 20mm;
+    height: 20mm;
     background-color: #ffffff;
-    border-radius: 10pt;
-    border-color: #000000;
-    z-index: 1;
-    border-top: 4px solid #9e9b9ba5;
-    border-left: 4px solid #9e9b9ba5;
+    z-index: 13;
 }
-.rect2{
-    height: 180pt;
-    width: 52pt;
+
+.box{
     position: absolute;
-    left: 512pt;
-    top: 94pt;
-    background-color: #ffffff;
-    border-radius: 10pt;
-    border-color: #000000;
-    z-index: 1;
-    border-right: 4px solid #9e9b9ba5;
+    left: 5mm;
+    top: 24mm;
+    width: 197.2mm;
+    height: 114mm;
+    color: #9e9b9ba5;
+    background-color: #ffffffa5;
+    z-index: 0;
+    border-radius: 151pt;
+    border: 3pt solid #9e9b9ba5;
+    border-bottom: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
+
 
 /* Invitation content styling */
 .invitation-content {
