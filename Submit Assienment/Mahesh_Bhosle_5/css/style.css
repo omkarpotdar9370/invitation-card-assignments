@@ -12,7 +12,7 @@ body{
     background: #fff;
     position: relative;
     overflow: hidden;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 7.5pt rgba(0, 0, 0, 0.2);
     margin: auto;
 }
 
@@ -73,7 +73,7 @@ body{
 }
 
 .invitation-header {
-    font-size: 2.5rem;
+    font-size: 30pt;
     color: rgb(165, 28, 68);
     margin-bottom: 6mm;
     position: absolute;
