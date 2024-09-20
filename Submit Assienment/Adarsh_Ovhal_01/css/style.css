@@ -13,11 +13,11 @@ body{
     left: 50mm;
     position: relative;
     overflow: hidden;
-    border-top: 170px solid rgb(255, 183, 0);
-    border-bottom: 170px solid rgb(255, 183, 0);
-    border-left: 100px solid rgb(255, 183, 0);
-    border-right: 100px solid rgb(255, 183, 0);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-top: 127.5pt solid rgb(255, 183, 0);
+    border-bottom: 127.5pt solid rgb(255, 183, 0);
+    border-left: 75pt solid rgb(255, 183, 0);
+    border-right: 75pt solid rgb(255, 183, 0);
+    box-shadow: 0 0 7.5pt rgba(0, 0, 0, 0.2);
 }
 
 
@@ -28,14 +28,14 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     width: 80%;
-    padding: 20px;
+    padding: 15pt;
     text-align: center;
 }
 
 .invitation-header {
     font-size: 2.5rem;
     color: #27115d;
-    margin-bottom: 23px;
+    margin-bottom: 17.25pt;
     position: absolute;
     top: -89mm;
     left: 38mm;
@@ -43,7 +43,7 @@ body{
 .event-name {
     font-size: 5rem;
     color: rgb(0, 204, 255);
-    margin-bottom: 10px;
+    margin-bottom: 7.5pt;
     position: absolute;
     top: -81mm;
     left: -18mm;
@@ -80,7 +80,7 @@ body{
 .salutation {
     font-size: 3rem;
     color: rgb(255, 183, 0);
-    margin-bottom: 10px;
+    margin-bottom: 7.5pt;
     position: absolute;
     top: -71mm;
     left: 175mm;
@@ -90,7 +90,7 @@ body{
 .tagline {
     font-size: 2.1rem;
     color: rgb(0, 5, 83);
-    margin-bottom: 20px;
+    margin-bottom: 7.5pt;
     position: absolute;
     top: -56mm;
     left: 179mm;
@@ -99,7 +99,7 @@ body{
 .event-subheading {
     font-size: 2rem;
     color: rgb(0, 5, 83);
-    margin-bottom: 10px;
+    margin-bottom: 7.5pt;
     position: absolute;
     top: -57mm;
     left: -7mm;
@@ -107,7 +107,7 @@ body{
 .event-pre-description {
     font-size: 1.8rem;
     color: #27115d;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: 50mm;
     left: 3mm;
@@ -116,7 +116,7 @@ body{
 .event-description {
     font-size: 1.8rem;
     color: #27115d;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: 56mm;
     left: 23mm;
@@ -125,7 +125,7 @@ body{
 .event-organizer {
     font-size: 1.5rem;
     color: #27115d;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: 84mm;
     left: -13mm;
@@ -134,7 +134,7 @@ body{
 .event-other-organizers {
     font-size: 1.8rem;
     color: #27115d;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: 46mm;
     left: 70mm;
@@ -143,7 +143,7 @@ body{
 .event-organizers-contact-person {
     font-size: 1.5rem;
     color: #27115d;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: 84mm;
     left: 115mm;
@@ -152,7 +152,7 @@ body{
 .event-organizers-contact-number {
     font-size: 1.5rem;
     color: #27115d;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: 84mm;
     left: 228mm;
@@ -160,7 +160,7 @@ body{
 .event-participant-1 {
     font-size: 6rem;
     color: #f82ecc;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: -38mm;
     left: 170mm;
@@ -170,7 +170,7 @@ body{
 .event-participant-1-details {
     font-size: 2.2rem;
     color: rgb(8, 8, 8);
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: -10mm;
     left: 168mm;
@@ -179,7 +179,7 @@ body{
 .event-participant-2 {
     font-size: 6rem;
     color: #f82ecc;
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: -42mm;
     left: 60mm;
@@ -188,7 +188,7 @@ body{
 .event-participant-2-details {
     font-size: 2.2rem;
     color: rgb(8, 8, 8);
-    margin-bottom: 5px;
+    margin-bottom: 3.75pt;
     position: absolute;
     top: -9mm;
     left: 72mm;
