@@ -12,12 +12,18 @@ body{
     top: 40mm;
     left: 50mm;
     position: relative;
-    overflow: hidden;
+    
     border-top: 127.5pt solid rgb(255, 183, 0);
     border-bottom: 127.5pt solid rgb(255, 183, 0);
     border-left: 75pt solid rgb(255, 183, 0);
     border-right: 75pt solid rgb(255, 183, 0);
     box-shadow: 0 0 7.5pt rgba(0, 0, 0, 0.2);
+}
+
+.invitation-background{
+    position: relative  ;
+    width: 300mm;
+    height: 120;
 }
 
 
@@ -195,37 +201,37 @@ body{
 }
 
 .logo img{
-    top: 50mm;
-    left: 75mm;
+    top: -38mm;
+    left: -3mm;
     position: absolute;
     height: 30mm;
 }
 
 .arrow img{
-    top: 125mm;
-    left: 105mm;
+    top: 39mm;
+    left: 27mm;
     position: absolute;
     height: 90mm;
 }
 
 .template img{
-    top: 0mm;
-    left: 190mm;
+    top: -89mm;
+    left: 111mm;
     position: absolute;
     height: 40mm;
 }
 
 .home img{
-    top: 48mm;
-    left: 290mm;
+    top: -40mm;
+    left: 210mm;
     position: absolute;
     height: 30mm;
 }
 
-.design img{
-    top: 267mm;
-    left: 52mm;
+ .design img{
+    top: 177mm;
+    left: -25mm;
     position: absolute;
     height: 44mm;
-    width: 428mm;
+    width: 431mm;
 }
