@@ -23,7 +23,7 @@
     top: 10mm;
     left: 13mm;
     height: 60mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 }
 .line1 {
@@ -31,7 +31,7 @@
     top: 8mm;
     left: 15mm;
     height: 60mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 }
 .line2 {
@@ -39,7 +39,7 @@
     top: 8mm;
     left: 15mm;
     width: 77mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 } 
 .line3 {
@@ -47,35 +47,35 @@
     top: 10mm;
     left: 13mm;
     width: 70mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
 }
 .line4 {
     position: absolute;
     top: 10mm;
     left: 110mm;
     width: 77mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
 }
 .line5 {
     position: absolute;
     top: 10mm;
     left: 17mm;
     width: 73mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
 }
 .line6 {
     position: absolute;
     top: 8mm;
     left: 108mm;
     width: 77mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
 }
 .line7 {
     position: absolute;
     top: 8mm;
     left: 185mm;
     height: 60mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 }
 .line8 {
@@ -83,7 +83,7 @@
     top: 10mm;
     left: 187mm;
     height: 60mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 }
 .line8 {
@@ -91,7 +91,7 @@
     top: 180mm;
     left: 13mm;
     height: 60mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 }
 .line9 {
@@ -99,7 +99,7 @@
     top: 10mm;
     left: 187mm;
     height: 60mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 }
 .line10 {
@@ -115,7 +115,7 @@
     top: 240mm;
     left: 13mm;
     width: 73mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 } 
 .line12 {
@@ -123,7 +123,7 @@
     top: 240mm;
     left: 114mm;
     width: 73mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 } 
 .line13 {
@@ -131,21 +131,21 @@
     top: 180mm;
     left: 189mm;
     height: 58mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
 }
 .line14 {
     position: absolute;
     top: 180mm;
     left: 11mm;
     height: 58mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
 }
 .line15 {
     position: absolute;
     top: 238mm;
     left: 116mm;
     width: 73mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 } 
 .line16 {
@@ -153,7 +153,7 @@
     top: 238mm;
     left: 11mm;
     width: 73mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 } 
 .line17 {
@@ -161,7 +161,7 @@
     top: 144mm;
     left: 86mm;
     height: 18mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 } 
 .line18 {
@@ -169,7 +169,7 @@
     top: 144mm;
     left: 110mm;
     height: 18mm;
-    border:1px solid navy;
+    border:0.2645833333mm solid navy;
     
 } 
 
@@ -226,16 +226,16 @@
     left: 50%;
     transform: translate(-50%, -50%);
     width: 80%;
-    padding: 20px;
+    padding: 5.2916666667mm;
     text-align: center;
     text-align: center;
 
 }
 
 .invitation-header {
-    font-size: 2.5rem;
+    font-size: 10pt;
     color: #27115d;
-    margin-bottom: 23px;
+    margin-bottom: 6.0854166667mm;
     position: absolute;
     top: -89mm;
     left: 38mm;
@@ -245,7 +245,7 @@
 .event-name {
     font-size: 40pt;
     color: #27115d;
-    margin-bottom: 10px;
+    margin-bottom: 2.6458333333mm;
     position: absolute;
     top: -85mm;
     left: 35mm;
@@ -329,7 +329,7 @@
 }
 
 .tagline {
-    font-size: 15PT;
+    font-size: 15pt;
     color: #27115d;
     margin-bottom: 10mm;
     position: absolute;
@@ -350,7 +350,7 @@
 
 }
 .event-pre-description {
-    font-size: 1.8rem;
+    font-size: 18pt;
     color: #27115d;
     margin-bottom: 5mm;
     position: absolute;
@@ -417,7 +417,7 @@
 
 }
 .event-participant-1 {
-    font-size: 6rem;
+    font-size: 72pt;
     color:rgb(108, 4, 5);
     margin-bottom: 5mm;
     position: absolute;
@@ -430,18 +430,17 @@
 }
 
 .event-participant-1-details {
-    font-size: 1.2rem;
+    font-size: 16pt;
     color: #27115d;
     margin-bottom: 5mm;
     position: absolute;
     top: 2mm;
     left: 76mm;
     text-align: center;
-
 }
 
 .event-participant-2 {
-    font-size: 6rem;
+    font-size: 70pt;
     color: rgb(108, 4, 5);
     margin-bottom: 5mm;
     position: absolute;
@@ -452,7 +451,7 @@
 
 }
 .event-participant-2-details {
-    font-size: 1.2rem;
+    font-size: 16pt;
     color: #27115d;
     margin-bottom: 5mm;
     position: absolute;
