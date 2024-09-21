@@ -15,7 +15,7 @@
     background: #fff;
     position: relative;
     overflow: hidden;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 7.5pt rgba(0, 0, 0, 0.2);
 }
 
 /* Background decorations */
@@ -47,9 +47,9 @@
     position: absolute;
     z-index: 3;
     left: -1mm;
-    background-image: linear-gradient(90deg, transparent 49%, #f7c570 50%);
+    background-image: linear-gradient(90deg, transparent 49%, #d3882d);
     background-size: 19.84mm 19.84mm;
-    background-color: #d3882d;
+    background-color:  #f19f13;
 	
 }
 
@@ -74,15 +74,15 @@
 }
 
 .shape6 {
-   width: 216.42mm;
+    width: 216.42mm;
     height: 20.37mm;
     position: absolute;
     z-index: 3;
     left: -1mm;
     top: 285mm;
-    background-image: linear-gradient(90deg, transparent 49%, #d3882d 50%);
+    background-image: linear-gradient(90deg, transparent 49%, #d3882d);
     background-size: 19.84mm 19.84mm;
-    background-color: #f7c570;
+    background-color: #f19f13;
 }
 
 .shape7 {
@@ -155,8 +155,7 @@
 .invitation-content {
     position: absolute;
     top: 146.29mm;
-    left: 126.29mm;
-    transform: translate(-50%, -50%);
+    left: 17.29mm;
     width: 211.66mm;
     padding: 15pt;
     text-align: center;
@@ -209,7 +208,7 @@
 .salutation {
     font-size: 29pt;
     color: #5f5d58;
-    margin-bottom: 10px;
+    margin-bottom: 2.64mm;
     position: absolute;
     top: -114mm;
     left: 39mm;
@@ -227,7 +226,7 @@
 .event-subheading {
     font-size: 20pt;
     color: #5f5d58;
-    margin-bottom: 10px;
+    margin-bottom: 2.64mm;
     position: absolute;
     top: -64mm;
     left: 26mm;
