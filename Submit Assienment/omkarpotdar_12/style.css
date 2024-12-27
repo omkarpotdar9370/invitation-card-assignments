@@ -1,0 +1,191 @@
+*{
+                 margin: 0;
+                 padding: 0;
+}
+
+html,body{
+                 width: 100%;
+                 height: 100%;
+                 box-sizing: border-box;
+}
+
+.mainpage{
+                 width: 100%;
+                 height: 100%;
+                 display: flex;
+                 background-color: #000000;
+                 overflow: hidden;
+                 max-height: 100%;
+}
+
+.background{
+                 width: 45%;
+                 max-height: 98%;
+             margin-left: 27.5%;
+               border-bottom: 7px white solid;
+               border-top: 7px white solid;
+               border-left: 7px white solid;
+background-color: rgb(145, 38, 38);
+overflow: hidden;
+
+}
+
+.top-triangle{
+    transform: rotate(315deg);
+    border-bottom: 400px  rgb(128, 25, 25) solid;
+    border-left: 400px solid transparent;
+    border-right: 400px solid transparent;
+    margin-top: -59px;
+    position: absolute;
+    margin-left: -258.5px;
+}
+
+.bottom-triangle{
+    transform: rotate(315deg);
+    border-top: 400px rgb(138, 29, 29) solid;
+    border-left: 400px solid transparent;
+    border-right: 400px solid transparent;
+    margin-top: 550px;
+    position: absolute;
+    margin-left: 316px;
+}
+
+.blank-back-page{
+    position: relative;
+    width: 85%;
+    height: 90%;
+    background-color: #fff ;
+    margin-left: 7.5%;
+    margin-top: 5%;
+    box-shadow: 7px 7px 15px 1px black ;
+    overflow: hidden;
+}
+
+.first-line{
+    width: 86%;
+    height: 88%;
+    border: 4px violet solid;
+margin-left: 7%;
+margin-top: 6%;
+position: absolute;
+}
+
+.second-line{
+    width: 82%;
+    height: 92%;
+    border: 4px violet solid;
+margin-left: 9%;
+margin-top: 4%;
+position: absolute;
+}
+
+.middle-white-box{
+    background-color: #fff;
+    width: 100%;
+    transform: skew(10deg,5deg);
+    height: 35%;
+    position: absolute;
+  margin-top: 35%;
+}
+
+.small-top-triangle{
+    position: absolute;
+    border-bottom: 50px solid white;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.small-bottom-triangle{
+    position: absolute;
+    border-top: 50px solid rgb(255, 255, 255);
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    margin-left: 50%;
+    margin-top: 102%;
+}
+
+.front-page{
+    position: absolute;
+    width: 38.5%;
+    height: 88%;
+    color: rgb(92, 46, 92) ;
+    margin-left: 31.2%;
+    margin-top: 2.5%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.heading{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold; 
+   text-transform: uppercase;
+    text-align: center;
+    height: 100px;
+    width: 592px;
+    margin-left: 72px;
+    margin-top: -350px;
+}
+
+.names{
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 30px;
+    text-align: center;
+    margin-top: -380px;
+    text-transform: capitalize;
+}
+
+.birth-of-date{
+   width: 330px;
+    position: absolute;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 220px;
+    margin-top: 220px;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    display: inline;
+}
+
+.day-date{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.day{
+    border-left: 2px rgb(92, 46, 92) solid;
+    border-right: 2px rgb(92, 46, 92) solid;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 0px;
+    font-size: 40px;
+}
+
+.hotel-name{
+    position: absolute;
+    font-size: 34px;
+    text-transform: capitalize;
+    margin-left: 315px;
+    margin-top: 470px;
+    font-weight: 600;
+    text-align: center;
+}
+
+h5{
+    font-size: 16px;
+}
+
+.footer-headline{
+    position: absolute;
+    margin-left: 250px;
+    font-size: 26px;
+    margin-top: 670px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
